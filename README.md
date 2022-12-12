@@ -1,2 +1,2 @@
-# CYOA
-my Choose Your Own Adventure story
+# My Choose Your Own Adventure Story
+My first CYOA story
